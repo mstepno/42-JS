@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "boolean": "nodemon ./js/04-boolean.js",
+    "if": "nodemon ./js/06-if.js",
+    "array":   "nodemon ./js/05-array.js",
     "strings": "nodemon ./js/03-strings.js",
     "console": "nodemon ./js/01-console.js",
     "numbers": "nodemon ./js/02-numbers.js",
@@ -15,4 +18,5 @@
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
-}
+  }
+
