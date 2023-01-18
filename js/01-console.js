@@ -82,3 +82,11 @@ const sms2 = `Sveiki, mano vardas ${name}, man yra ${age} metai ir as esu is ${c
 console.log(sms2);
 console.clear();
 
+const a = 6;
+const b = 8;
+const c = 9;
+console.log(a, b, c,);
+const suma = a * b + c;
+console.log(`a* b + c`);
+console.log(suma);
+
