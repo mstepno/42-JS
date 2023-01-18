@@ -10,6 +10,11 @@
     "strings": "nodemon ./js/03-strings.js",
     "console": "nodemon ./js/01-console.js",
     "numbers": "nodemon ./js/02-numbers.js",
+    "switch": "nodemon ./js/07-switch.js",
+    "for": "nodemon ./js/08-for.js",
+    "function": "nodemon ./js/09-function.js",
+    "typeof": "nodemon ./js/10-typeof.js",
+    
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
