@@ -17,6 +17,8 @@
     "rangeSum": "nodemon ./js/11-rangeSum.js",
     "reverseString": "nodemon ./js/12-reverseString.js",
     "beliekaninis": "nodemon ./js/13-beliekaninis.js",
+    "numSize": "nodemon ./js/14-numSize.js",
+    "biggestNum": "nodemon ./js/15-biggestNum.js",
     
     "test": "echo \"Error: no test specified\" && exit 1"
   },
