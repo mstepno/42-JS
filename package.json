@@ -20,6 +20,7 @@
     "numSize": "nodemon ./js/14-numSize.js",
     "biggestNum": "nodemon ./js/15-biggestNum.js",
     "nthLetter": "nodemon ./js/16-nthLetter.js",
+    "object": "nodemon ./js/17-object.js",
     
     "test": "echo \"Error: no test specified\" && exit 1"
   },
