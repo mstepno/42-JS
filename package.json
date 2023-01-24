@@ -19,6 +19,7 @@
     "beliekaninis": "nodemon ./js/13-beliekaninis.js",
     "numSize": "nodemon ./js/14-numSize.js",
     "biggestNum": "nodemon ./js/15-biggestNum.js",
+    "nthLetter": "nodemon ./js/16-nthLetter.js",
     
     "test": "echo \"Error: no test specified\" && exit 1"
   },
