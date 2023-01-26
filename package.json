@@ -24,6 +24,9 @@
     "stringMethods": "nodemon ./js/18-stringMethods.js",
     "arrayMethods": "nodemon ./js/19-arrayMethods.js",
     "arrow": "nodemon ./js/20-arrowMethods.js",
+    "ciklai": "nodemon ./js/21-ciklai.js",
+    "ternary": "nodemon ./js/22-ternary.js",
+    "daznis": "nodemon ./js/23-daznis.js",
     
     "test": "echo \"Error: no test specified\" && exit 1"
   },
